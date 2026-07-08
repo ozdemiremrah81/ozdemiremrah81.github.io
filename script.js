@@ -6,7 +6,7 @@
  *  DÜZENLE: WhatsApp numarasını buraya yazın (ülke koduyla, sadece
  *  rakam). Örnek Türkiye için: "905551234567"
  * ------------------------------------------------------------------ */
-const WHATSAPP = "90532254927";
+const WHATSAPP = "905322549327";
 const WHATSAPP_MSG = "Merhaba, sipariş vermek istiyorum 🍰";
 
 document.addEventListener("DOMContentLoaded", () => {
